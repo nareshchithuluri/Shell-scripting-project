@@ -1,0 +1,8 @@
+echo "Arguments Total : $# "
+echo "Script name : $0 "
+echo "Script 1st Argument : $1 "
+echo "Script 2nd Argument : $2 "
+echo "Script 3rd Argument : $3 "
+echo "List of all Arguments :  $* "
+echo "List of all Arguments :  $@ "
+echo "PID of shell : $$ "
